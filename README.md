@@ -1,4 +1,4 @@
-# EDA with Pandas - Cumulative Lab
+## EDA with Pandas - Cumulative Lab
 
 ## Introduction
 
